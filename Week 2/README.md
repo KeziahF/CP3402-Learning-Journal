@@ -1,4 +1,4 @@
-# CP3402-Learning-Journal-Week_1
+# CP3402-Learning-Journal-Week_2
 
 ## Learning Activities & Resources
 
