@@ -1,7 +1,7 @@
 # CP3402-Learning-Journal-Week_2
 
 ## Learning Activities & Resources
-Watched video tutorials about how to use Joomla. Utilised blogs, FAQ pages and Joomla documentation to gain an understanding of how Joomla differs from other CMSs.
+I watched video tutorials about how to use Joomla. Utilised blogs, FAQ pages and Joomla documentation to gain an understanding of how Joomla differs from other CMSs.
 
 * CSS within HTML: https://www.w3schools.com/css/css_howto.asp
 * comparison of different CMSs: https://www.cloudways.com/blog/wordpress-vs-drupal-vs-joomla/
