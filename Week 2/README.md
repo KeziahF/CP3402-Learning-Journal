@@ -3,10 +3,10 @@
 ## Learning Activities & Resources
 Watched video tutorials about how to use Joomla. Utilised blogs, FAQ pages and Joomla documentation to gain an understanding of how Joomla differs from other CMSs.
 
-css within html: https://www.w3schools.com/css/css_howto.asp
-comparison of different CMSs: https://www.cloudways.com/blog/wordpress-vs-drupal-vs-joomla/
-Basic Joomla tutorial: https://www.youtube.com/watch?v=DJhZTVZVWw0
-Basic Joomla information: https://docs.joomla.org/J3.x:Getting_Started_with_Joomla!
+* css within html: https://www.w3schools.com/css/css_howto.asp
+* comparison of different CMSs: https://www.cloudways.com/blog/wordpress-vs-drupal-vs-joomla/
+* Basic Joomla tutorial: https://www.youtube.com/watch?v=DJhZTVZVWw0
+* Basic Joomla information: https://docs.joomla.org/J3.x:Getting_Started_with_Joomla!
 
 ## Estimated Hours
 I spent about 5 hours of my own time on this subject. 
