@@ -3,9 +3,9 @@
 ## Learning Activities & Resources
 This week I utilised blog tutorials and youtube videos to investigate hosting a WordPress site locally. 
 
-- [Inmotion tutorial to setup Vagrant](https://www.inmotionhosting.com/support/website/website-design/how-to-create-a-local-dev-server-with-vagrant/)
-- [WPBeginner tutorial to create locally hosted WordPress site](https://www.youtube.com/watch?v=gEceSAJI_3s)   
-- [WordPress tutorial for exporting website](https://wordpress.com/support/export/)
+* [Inmotion tutorial to setup Vagrant](https://www.inmotionhosting.com/support/website/website-design/how-to-create-a-local-dev-server-with-vagrant/)
+* [WPBeginner tutorial to create locally hosted WordPress site](https://www.youtube.com/watch?v=gEceSAJI_3s)   
+* [WordPress tutorial for exporting website](https://wordpress.com/support/export/)
 * [Wazoo Web Bytes Youtube Video - Docker Tutorial](https://www.youtube.com/watch?v=gEceSAJI_3s)
 * [Hostinger tutorial to create locally hosted WordPress site](https://www.hostinger.com/tutorials/wordpress-localhost)
 
