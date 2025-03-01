@@ -11,7 +11,7 @@ This week I utilised a number of tutorials to investigate creating child themes 
 
 
 ## Estimated Hours
-I spent approximately 3 hours completing the above learning activities for CP3402 this week. (I spent more time this week working on my assignment over general learning activities)
+I spent approximately 2.5 hours completing the above learning activities for CP3402 this week. (I spent more time this week working on my assignment over general learning activities)
 
 ## Content Insights
 I learned that child themes can be used to modify particular aspects of overall themes. These child themes can be created through the modification of css files for certain elements within the parent theme. I also learned that the php (functions) file of a WordPress site can be modified in order to incorporate additional style files into the theme in order to inherit these additional css elements. 
