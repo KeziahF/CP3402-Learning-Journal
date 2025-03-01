@@ -3,11 +3,11 @@
 ## Learning Activities & Resources
 This week I utilised a number of tutorials to investigate creating child themes in WordPress.
 
-*[Cloudways Child Themes Tutorial](https://www.cloudways.com/blog/create-child-theme-wordpress/)
-*[WordPress Developer Child Themes Tutorial](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
-*[WordPress Block Patterns Tutorial](https://developer.wordpress.org/themes/features/block-patterns/)
-*[WordPress Including Assets Tutorial](https://developer.wordpress.org/themes/features/block-patterns/)
-*[WordPress Custom Functionality Tutorial](https://developer.wordpress.org/themes/features/block-patterns/)
+* [Cloudways Child Themes Tutorial](https://www.cloudways.com/blog/create-child-theme-wordpress/)
+* [WordPress Developer Child Themes Tutorial](https://developer.wordpress.org/themes/advanced-topics/child-themes/)
+* [WordPress Block Patterns Tutorial](https://developer.wordpress.org/themes/features/block-patterns/)
+* [WordPress Including Assets Tutorial](https://developer.wordpress.org/themes/features/block-patterns/)
+* [WordPress Custom Functionality Tutorial](https://developer.wordpress.org/themes/features/block-patterns/)
 
 
 ## Estimated Hours
