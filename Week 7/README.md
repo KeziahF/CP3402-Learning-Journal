@@ -19,7 +19,7 @@ Alternately, when working with PHP I learnt that the construct include ` <?php i
 This week rather than trying to learn the overall structure and details of the PHP language I reviewed the types of changes that PHP can make to a website and began designing a basic site. This allowed me to apply my general programming knowledge and understanding to the language and research specific terms or techniques as required to learn project-specific skills rather than the language as a whole. I found this technique more closely reflected industry behaviour where I am not guaranteed to be working in a position only using languages I have extensively used and therefore will need to apply a basic understanding to quickly learn and apply new skills. This practice also allowed me to reflect on my previous learnings on program structure that allowed me to adjust and integrate PHP comfortably.
 
 ## Documentation example from Seminar
-# Adding a new page to the header.
+### Adding a new page to the header.
 * Clone the [advice shop repository](https://github.com/lindsaymarkward/theadviceshop) to your prefered development platform. See *other documentation* for setting this up.
 * Create a new branch named *New  Feature Description* 
 * Navigate to the inc_nav.php file
