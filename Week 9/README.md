@@ -10,7 +10,8 @@
 I spent approximately 3 hours completing various learning activities for CP3402 this week. 
 
 ## Content Insights
-I learned that the `<span>` is an inline HTML element that can be used to add the behaviour of a `<div>` element to a paragraph line without causing a line break. In HTML there are block-level elements that always start on a new line and take up the full width available and inline elements that only take up as much width as necessary and do not start on a new line. A block-level element may include `<div>` or `<p>` and `<span>` is an exmple of an inline element. I was encouraged to explore these element types when I was completing the practical application of Sass - utilising Sass and an automated workflow to create the CSS for a simple website. I was demonstrating the use of extend or inheritence in Sass to give 2 classes inherited attributes of font size and weight:
+I learned that the `<span>` is an inline HTML element that can be used to add the behaviour of a `<div>` element to a paragraph line without causing a line break. In HTML there are block-level elements that always start on a new line and take up the full width available and inline elements that only take up as much width as necessary and do not start on a new line. A block-level element may include `<div>` or `<p>` and `<span>` is an example of an inline element. I was encouraged to explore these element types when I was completing the practical application of Sass - utilising Sass and an automated workflow to create the CSS for a simple website. I was demonstrating the use of extend or inheritence in Sass to give 2 classes inherited attributes of font size and weight, however, when viewing the website, all important text was displayed on seperate lines:
+* Sass Code
 ```
 @mixin important-text {
     font-size: 25px;
@@ -33,6 +34,17 @@ I learned that the `<span>` is an inline HTML element that can be used to add th
     }
 }
 ```
+* HTML Code
+```
+<main class="body">
+    <p>This is some very <div class="important">important</div> text.</p>
+    <p>This is some very <div class="good">good</div> text.</p>
+    <p>These text types can give our <div class="important">information more importance</div> and <div class="good">emphasises topics.</div></p>
+</main>
+```
+* Output 
+![Text Output Using Div Element](Text_Using_Div.png)
+
 
 
 ## Career/Employability/Learning Insights
