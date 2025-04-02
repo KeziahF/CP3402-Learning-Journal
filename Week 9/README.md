@@ -42,7 +42,7 @@ I learned that the `<span>` is an [inline HTML element](https://www.w3schools.co
     <p>These text types can give our <div class="important">information more importance</div> and <div class="good">emphasises topics.</div></p>
 </main>
 ```
-* Output\
+* Output
 
 ![Text Output Using Div Element](Text_Using_Div.png)
 
@@ -59,7 +59,7 @@ After investigating and implementing the `<span>` element the content of the web
 </main>
 ```
 
-* Output\
+* Output
 
 ![Text Output Using Span Element](Text_Using_Span.png)
 
