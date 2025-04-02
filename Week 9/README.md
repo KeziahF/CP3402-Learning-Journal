@@ -1,12 +1,38 @@
-# CP3402-Learning-Journal-Week_9
+# CP3402-Learning-Journal-Week-9
 
 ## Learning Activities & Resources
-
+*[W3 Schools Sass Tutorial](https://www.w3schools.com/sass/)
+*[W3 Schools inline div Tutorial](https://www.w3schools.com/html/html_blocks.asp)
+*[Wordpress Exporting Pages Tutorial](https://wordpress.com/support/export/)
+*[BookwormHead Youtube Tutorial - Installing Sass in VS Code](https://www.youtube.com/watch?v=DvqDO_EiQ6M)
 
 ## Estimated Hours
-
+I spent approximately 3 hours completing various learning activities for CP3402 this week. 
 
 ## Content Insights
+I learned that the `<span>` is an inline HTML element that can be used to add the behaviour of a `<div>` element to a paragraph line without causing a line break. In HTML there are block-level elements that always start on a new line and take up the full width available and inline elements that only take up as much width as necessary and do not start on a new line. A block-level element may include `<div>` or `<p>` and `<span>` is an exmple of an inline element. I was encouraged to explore these element types when I was completing the practical application of Sass - utilising Sass and an automated workflow to create the CSS for a simple website. I was demonstrating the use of extend or inheritence in Sass to give 2 classes inherited attributes of font size and weight:
+```
+@mixin important-text {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.body {
+    background-color: $background_colour;
+    font-size: $paragraph_font_size;
+    display: inline;
+
+    .important{
+        @include important-text;
+        color: red;
+    }
+
+    .good{
+        @include important-text;
+        color: green;
+    }
+}
+```
 
 
 ## Career/Employability/Learning Insights
