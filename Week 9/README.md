@@ -1,10 +1,10 @@
 # CP3402-Learning-Journal-Week-9
 
 ## Learning Activities & Resources
-*[W3 Schools Sass Tutorial](https://www.w3schools.com/sass/)
-*[W3 Schools inline div Tutorial](https://www.w3schools.com/html/html_blocks.asp)
-*[Wordpress Exporting Pages Tutorial](https://wordpress.com/support/export/)
-*[BookwormHead Youtube Tutorial - Installing Sass in VS Code](https://www.youtube.com/watch?v=DvqDO_EiQ6M)
+* [W3 Schools Sass Tutorial](https://www.w3schools.com/sass/)
+* [W3 Schools inline div Tutorial](https://www.w3schools.com/html/html_blocks.asp)
+* [Wordpress Exporting Pages Tutorial](https://wordpress.com/support/export/)
+* [BookwormHead Youtube Tutorial - Installing Sass in VS Code](https://www.youtube.com/watch?v=DvqDO_EiQ6M)
 
 ## Estimated Hours
 I spent approximately 3 hours completing various learning activities for CP3402 this week. 
