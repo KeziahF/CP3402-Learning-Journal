@@ -1,10 +1,15 @@
 # CP3402-Learning-Journal-Week-9
 
 ## Learning Activities & Resources
+* Learning Sass:
 * [W3 Schools Sass Tutorial](https://www.w3schools.com/sass/)
 * [W3 Schools inline div Tutorial](https://www.w3schools.com/html/html_blocks.asp)
 * [Wordpress Exporting Pages Tutorial](https://wordpress.com/support/export/)
 * [BookwormHead Youtube Tutorial - Installing Sass in VS Code](https://www.youtube.com/watch?v=DvqDO_EiQ6M)
+* Sass in Industry:
+* []()
+* []()
+* []()
 
 ## Estimated Hours
 I spent approximately 3 hours completing various learning activities for CP3402 this week. 
@@ -65,3 +70,9 @@ After investigating and implementing the `<span>` element, the content of the we
 ![Text Output Using Span Element](Text_Using_Span.png)
 
 ## Career/Employability/Learning Insights
+- poll results on Sass/ SCSS preference 
+- major companies that use Sass 
+
+- some are phasing it out or it is difficult to use on a large scale as it needs to run locally 
+- still a necessary skill
+- 
