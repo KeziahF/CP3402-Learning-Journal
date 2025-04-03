@@ -10,7 +10,8 @@
 I spent approximately 3 hours completing various learning activities for CP3402 this week. 
 
 ## Content Insights
-I learned that the `<span>` is an [inline HTML element](https://www.w3schools.com/html/html_blocks.asp) that can be used to add the behaviour of a `<div>` element to a paragraph line without causing a line break. In HTML there are block-level elements that always start on a new line and take up the full width available and inline elements that only take up as much width as necessary and do not start on a new line. A block-level element may include `<div>` or `<p>` and `<span>` is an example of an inline element. I was encouraged to explore these element types when I was completing the practical application of Sass - utilising Sass and an automated workflow to create the CSS for a simple website. I was demonstrating the use of extend or inheritence in Sass to give 2 classes (important and good) inherited attributes of font size and weight, however, when viewing the website, all important text was displayed on seperate lines:
+I learned that the `<span>` is an [inline HTML element](https://www.w3schools.com/html/html_blocks.asp). It can be used to add the functionality of a `<div>` element to a paragraph line, without causing a line break. In HTML, block-level elements always start on a new line and take up the full width available. Inline elements, on the other hand, take up only as much width as required and do not start on a new line. A block-level element may include `<div>` or `<p>`, while `<span>` is an example of an inline element. I was encouraged to explore these element types while completing a practical application of Sass, using an automated workflow to create the CSS for a simple website. I was demonstrating the use of `@mixin` to give two classes (`important` and `good`) inherited attributes of font size and weight. However, when viewing the website, all text within these classes was displayed on seperate lines:
+
 * Sass Code
 ```
 @mixin important-text {
@@ -46,7 +47,7 @@ I learned that the `<span>` is an [inline HTML element](https://www.w3schools.co
 
 ![Text Output Using Div Element](Text_Using_Div.png)
 
-After investigating and implementing the `<span>` element the content of the website was able to be formatted correctly, changing the appearance of specific pieces of text within a line:
+After investigating and implementing the `<span>` element, the content of the website was formatted correctly, allowing specific pieces of text to appear within the same line:
 
 * Sass Code - remained unchanged
 
