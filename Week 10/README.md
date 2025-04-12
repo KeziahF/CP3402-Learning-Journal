@@ -3,7 +3,7 @@
 ## Learning Activities & Resources
 * [LinkedIn Report on CMS roles](https://www.linkedin.com/advice/1/what-most-common-cms-career-paths-skills-content-creation)
 * [Microsoft Tips for delivering an effective presentation](https://support.microsoft.com/en-au/office/tips-for-creating-and-delivering-an-effective-presentation-f43156b0-20d2-4c51-8345-0c337cefb88b)
-*[LinkedIn Report on the 5 P's of Presentation](https://www.linkedin.com/pulse/5-ps-presentation-improve-your-skills-vegora-technologies-6yttc/)
+* [LinkedIn Report on the 5 P's of Presentation](https://www.linkedin.com/pulse/5-ps-presentation-improve-your-skills-vegora-technologies-6yttc/)
 
 ## Estimated Hours
 I spent approximately 2 hours completing various learning activities for CP3402 this week. I focused mostly on the assignment work, with less focus on content to investigate.
